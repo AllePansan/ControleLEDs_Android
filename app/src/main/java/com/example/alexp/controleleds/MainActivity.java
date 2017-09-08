@@ -7,6 +7,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -15,8 +16,15 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import org.json.JSONObject;
 import org.w3c.dom.Text;
 
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.JsonObjectRequest;
+import com.android.volley.toolbox.Volley;
 import com.example.alexp.controleleds.efeitos.*;
 
 import java.util.ArrayList;
@@ -190,15 +198,42 @@ public class MainActivity extends AppCompatActivity
         return true;
     }
 
-    //funçoes de click
+    //OnClick functions
 
     public void criaFuncao (View v){
 
-        functionMsg.setText(spinnerCodGetEfects+"|"+spinnerCodGetMain+"|"+spinnerCodGetBack);
+        //functionMsg.setText(spinnerCodGetEfects+"|"+spinnerCodGetMain+"|"+spinnerCodGetBack);
+
+        RequestQueue queue = Volley.newRequestQueue(this);
+
+        final String url = "http://42.42.42.42/?funcao="+spinnerCodGetEfects+"&back="+spinnerCodGetBack+"&main="+spinnerCodGetMain;
+
+//Configura a requisicao
+        JsonObjectRequest getRequest = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>()
+        {
+            @Override
+            public void onResponse(JSONObject response) {
+                // mostra a resposta
+                Log.d("Response", response.toString());
+            }
+        },
+                new Response.ErrorListener()
+                {
+                    @Override
+                    public void onErrorResponse(VolleyError error) {
+                        Log.d("Error.Response", error.toString());
+                    }
+                });
+
+// Adiciona a Fila de requisicoes
+        queue.add(getRequest);
 
     }
 
-    //cria listas
+
+
+
+    //COLOR LIST
 
     private List<Cor> todosAsCores() {
         return new ArrayList<>(Arrays.asList(
@@ -345,12 +380,25 @@ public class MainActivity extends AppCompatActivity
 
     private List<Efeito> todosOsEfeitos() {
         return new ArrayList<>(Arrays.asList(
-                new Efeito("Efeito1","ImgEfeito1"),
-                new Efeito("Efeito2","imgEfeito2"),
-                new Efeito("Efeito3","imgEfeito3")
+                new Efeito("RainbowColors_p","ImgEfeito1"),
+                new Efeito("RainbowStripeColors_p","ImgEfeito2"),
+                new Efeito("RainbowStripeColors_p","ImgEfeito3"),
+                new Efeito("SetupPurpleAndGreenPalette","ImgEfeito4"),
+                new Efeito("SetupTotallyRandomPalette","ImgEfeito5"),
+                new Efeito("SetupBlackAndWhiteStripedPalette","ImgEfeito6"),
+                new Efeito("SetupBlackAndWhiteStripedPalette","ImgEfeito7"),
+                new Efeito("CloudColors_p","ImgEfeito8"),
+                new Efeito("PartyColors_p","ImgEfeito9"),
+                new Efeito("myRedWhiteBluePalette_p","ImgEfeito10"),
+                new Efeito("myRedWhiteBluePalette_p","ImgEfeito11")
         ));
     }
 
 
+    //DETECTING A sEND FROM SERVER
+
+    void recieveData(){
+
+    }
 
 }
