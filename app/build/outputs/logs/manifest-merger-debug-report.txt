@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
 		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml
@@ -13,28 +13,28 @@ ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\Androi
 	android:versionCode
 		INJECTED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:5:5-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:4:5-83
 	android:name
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:5:22-73
-uses-permission#android.permission.CHANGE_WIFI_STATE
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:6:5-75
 	android:name
 		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:6:22-73
-uses-permission#android.permission.INTERNET
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:7:5-66
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:7:5-75
 	android:name
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:7:22-73
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:8:5-80
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:9:5-78
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:10:5-78
 	android:name
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:10:22-76
 application
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:11:5-34:19
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:12:5-39:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.android\build-cache\e67fd668e8e67c15f79afd6e02f1e6d05f7b1501\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.android\build-cache\5a6d4442fa4570096870ed4cb1df520b1aaabc79\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.android\build-cache\3286f99eb6fb4c82e6ec834c7be1001520b26a5d\output\AndroidManifest.xml:26:5-20
@@ -48,48 +48,50 @@ MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.andr
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.android\build-cache\c20670e3c7bfcd7e1499f66dd2da51fa77074cce\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.android\build-cache\a1a657f4cc1f4f3beea8b472bcbd777d602d0fdf\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.android\build-cache\220486047ddb3ba0c2efec2ba241f277f964b402\output\AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:14:9-41
 	android:supportsRtl
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:16:9-35
-	android:roundIcon
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:12:9-35
-	android:icon
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.example.alexp.controleleds.SplashScreen
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:18:9-25:20
-	android:theme
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:20:13-56
-	android:name
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:19:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:21:13-24:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:22:17-69
-	android:name
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:22:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:23:17-77
-	android:name
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:23:27-74
-activity#com.example.alexp.controleleds.MainActivity
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:26:9-33:20
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:16:9-27:20
 	android:label
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:28:13-45
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:18:13-45
 	android:theme
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:29:13-56
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:27:13-41
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.alexp.controleleds.MainActivity
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:28:9-38:20
+	android:label
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:29:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:32:13-34:79
+	android:value
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:33:17-63
 intent-filter#android.intent.category.BROWSABLE
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:30:13-32:29
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:35:13-37:29
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:31:17-78
+ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:36:17-78
 	android:name
-		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:31:27-75
+		ADDED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml:36:27-75
 uses-sdk
 INJECTED from C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.android\build-cache\e67fd668e8e67c15f79afd6e02f1e6d05f7b1501\output\AndroidManifest.xml:21:5-23:62

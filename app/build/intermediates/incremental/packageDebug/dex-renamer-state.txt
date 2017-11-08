@@ -1,4 +1,4 @@
-#Tue Sep 26 19:50:55 BRT 2017
+#Sat Sep 30 23:31:06 BRT 2017
 base.0=C\:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1830011f6c0844def91ef54848010ea624640b4b
 renamed.1=classes.dex
 renamed.0=classes2.dex

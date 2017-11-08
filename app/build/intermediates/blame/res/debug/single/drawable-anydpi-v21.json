@@ -4,7 +4,31 @@
         "source": "C:\\Users\\alexp\\.android\\build-cache\\e67fd668e8e67c15f79afd6e02f1e6d05f7b1501\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
+        "merged": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml",
+        "source": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml",
+        "source": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_send.xml",
+        "source": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_send.xml"
+    },
+    {
         "merged": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
         "source": "C:\\Users\\alexp\\.android\\build-cache\\e67fd668e8e67c15f79afd6e02f1e6d05f7b1501\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_share.xml",
+        "source": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\alexp\\AndroidStudioProjects\\ControleLEDs\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
     }
 ]

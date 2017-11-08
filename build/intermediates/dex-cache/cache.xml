@@ -3,6 +3,87 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3713d6c543d2cecec2dd3f957570903e0819f484">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1830011f6c0844def91ef54848010ea624640b4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_7c195b052c7c333597271c7fae6caa813367094b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\5a6d4442fa4570096870ed4cb1df520b1aaabc79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_843365fc5d4b365b914cba95aec965688ec0d0ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\220486047ddb3ba0c2efec2ba241f277f964b402\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_955c059bd6d2211e7f20f73762d57602fd0a57b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\3286f99eb6fb4c82e6ec834c7be1001520b26a5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_69998946ae2434716e531334c19c135d3ac1e765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\857eea7f32b74015b911fdbb395268a395bc3e00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_80a8666c25d968a07f7070133bad553e0a4ceea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\a1a657f4cc1f4f3beea8b472bcbd777d602d0fdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_aaf79199aef29af287627672d83bfa837c2fdbc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\311e803f8e71f48bd33d9bc5355c5ad7633e0a48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_d327f47107ca1d0e902dcc3189138a139e34ce7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\dbe381c906807563e2b8bea7db2f554c27499d80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_9e31fc23db10c54642366e826dde0796c2fda036.jar" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -11,22 +92,76 @@
         <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b935ec2dc225d2c3eb9d203c297eee6a31f85bed\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\alexp\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="a8e5aa1a4c01a0d47186dc8a1ce1f69da1b7f935">
-        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1830011f6c0844def91ef54848010ea624640b4b\classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_35ff55973037743aba6a0886871fb51736c760bf.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\alexp\.android\build-cache\220486047ddb3ba0c2efec2ba241f277f964b402\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\bfd282b776261d01ffb896a20f4a07aafe3c399a\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_955c059bd6d2211e7f20f73762d57602fd0a57b5\classes.dex" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_3778c210295ad21670b04bb2bcc12988c076b004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\c20670e3c7bfcd7e1499f66dd2da51fa77074cce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_f1e635547bea9402d33a39082fa18d68978047a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\7ca6bb3d577e4a2aee52c521176914f9b0e4b9a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_44e06d026af690c39aca36dc1d6ee7828f658f98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\e67fd668e8e67c15f79afd6e02f1e6d05f7b1501\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_3f587840e4875735f63dc602f2be03de0e7a3c42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\6736c80f00ec10c8612d3aee04be538cdf3921a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_14e6b40dd72c6f6d3be760be83215c62cc6d6584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\4467fd03f57142fa21cfe2f49b06ae2cd9676d59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_36148f817de75fb457cba50bbfe988fff0ead241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexp\.android\build-cache\e5ccffae555ec11cf31054135161b6cad5ba86fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\alexp\AndroidStudioProjects\ControleLEDs\app\build\intermediates\pre-dexed\debug\classes_be9e8289b856be5a427e7de1ecc5678a37497d29.jar" />
     </item>
 
 </items>
