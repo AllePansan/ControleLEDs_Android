@@ -401,8 +401,4 @@ public class MainActivity extends AppCompatActivity
 
     //DETECTING A sEND FROM SERVER
 
-    void recieveData(){
-
-    }
-
 }

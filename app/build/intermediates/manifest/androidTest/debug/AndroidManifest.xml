@@ -13,7 +13,7 @@
         android:label="Tests for com.example.alexp.controleleds"
         android:targetPackage="com.example.alexp.controleleds" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
