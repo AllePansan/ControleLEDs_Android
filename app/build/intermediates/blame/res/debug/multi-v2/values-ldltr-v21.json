@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alexp\\Documents\\GitHub\\ControleLEDs_Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "C:\\Users\\alexp\\OneDrive\\Documentos\\GitHub\\ControleLEDs_Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alexp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\9dda73ad8f9d047a95811b84a33ae4e1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\alexp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\25ffbdadbdd72d707dd53a4308ed552f\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
