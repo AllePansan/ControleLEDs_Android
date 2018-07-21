@@ -1,201 +1,209 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-40:12
-MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\435dda1643b974e62a945bc56603a2cd\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\25ffbdadbdd72d707dd53a4308ed552f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\16a3b2967f023e1b3e790c0df0152ea4\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f709db67beb0aa667644a3aab36f6c70\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1be08f7033800403aa6b9d0cc4d9b684\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\492469d95f01980f5092a3fe88b06e7d\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\c40ed1cc38345b648663f0f33c963a8a\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\88c429df0231756b424dd1442127cee2\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\882a5229277e12b04c78e933938b5cbf\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5820263791efbb7cdd67bb8778f8fcdc\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a3d3caaa9bdd23e590aa033cc6ec1812\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d6c2e69dcfa1278b3573649f78ed2a28\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6894930b51155677e97bb28503785037\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2611a11880b76c6b6e4d9298935dc969\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c88774a5e65f038570b7581d0a8d401d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\782ec6adf02169a4f4f2416081fc2c6a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e5f53df736dd07e41e0bb075e3039eed\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1e3717abe723dd70f7394011d9505b0a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bf74e1ce88353c690e88f50aa61ba3e5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\141f1b3a6fa41a74d13f61b36634bca9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\720bfa6ed4efcd4e03c2eae0196c15a9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1dfeacae5da76d5f2527151e326fdea2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\58704a8de5003e5489e113428a7b3c83\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a116c5faabfb8f8e149d915c7190a4ce\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\913628e89c1982afc8c755e127656edf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d986e489daff854a53b52a5f04b1ca02\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b91f643e2c62941dc1c3dfef7e6a6d49\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fe1a66da9fdfac05831eac863c6b8123\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:4:5-83
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:6:5-75
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:6:5-76
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:6:22-73
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:6:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:7:5-75
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:7:5-76
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:7:22-73
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:7:22-73
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:9:5-80
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:9:22-78
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:10:5-78
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:10:22-76
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:10:22-76
 application
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:12:5-39:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\435dda1643b974e62a945bc56603a2cd\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\435dda1643b974e62a945bc56603a2cd\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\25ffbdadbdd72d707dd53a4308ed552f\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\25ffbdadbdd72d707dd53a4308ed552f\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\16a3b2967f023e1b3e790c0df0152ea4\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\16a3b2967f023e1b3e790c0df0152ea4\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f709db67beb0aa667644a3aab36f6c70\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f709db67beb0aa667644a3aab36f6c70\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1be08f7033800403aa6b9d0cc4d9b684\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1be08f7033800403aa6b9d0cc4d9b684\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\492469d95f01980f5092a3fe88b06e7d\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\492469d95f01980f5092a3fe88b06e7d\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\c40ed1cc38345b648663f0f33c963a8a\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\c40ed1cc38345b648663f0f33c963a8a\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\88c429df0231756b424dd1442127cee2\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\88c429df0231756b424dd1442127cee2\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\882a5229277e12b04c78e933938b5cbf\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\882a5229277e12b04c78e933938b5cbf\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5820263791efbb7cdd67bb8778f8fcdc\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5820263791efbb7cdd67bb8778f8fcdc\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a3d3caaa9bdd23e590aa033cc6ec1812\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a3d3caaa9bdd23e590aa033cc6ec1812\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6894930b51155677e97bb28503785037\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6894930b51155677e97bb28503785037\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2611a11880b76c6b6e4d9298935dc969\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2611a11880b76c6b6e4d9298935dc969\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:12:5-44:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c88774a5e65f038570b7581d0a8d401d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c88774a5e65f038570b7581d0a8d401d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\782ec6adf02169a4f4f2416081fc2c6a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\782ec6adf02169a4f4f2416081fc2c6a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e5f53df736dd07e41e0bb075e3039eed\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e5f53df736dd07e41e0bb075e3039eed\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1e3717abe723dd70f7394011d9505b0a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1e3717abe723dd70f7394011d9505b0a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bf74e1ce88353c690e88f50aa61ba3e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bf74e1ce88353c690e88f50aa61ba3e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\141f1b3a6fa41a74d13f61b36634bca9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\141f1b3a6fa41a74d13f61b36634bca9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\720bfa6ed4efcd4e03c2eae0196c15a9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\720bfa6ed4efcd4e03c2eae0196c15a9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1dfeacae5da76d5f2527151e326fdea2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1dfeacae5da76d5f2527151e326fdea2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\58704a8de5003e5489e113428a7b3c83\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\58704a8de5003e5489e113428a7b3c83\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a116c5faabfb8f8e149d915c7190a4ce\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a116c5faabfb8f8e149d915c7190a4ce\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\913628e89c1982afc8c755e127656edf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\913628e89c1982afc8c755e127656edf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b91f643e2c62941dc1c3dfef7e6a6d49\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b91f643e2c62941dc1c3dfef7e6a6d49\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fe1a66da9fdfac05831eac863c6b8123\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fe1a66da9fdfac05831eac863c6b8123\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.example.alexp.controleleds.SplashScreen
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:16:9-27:20
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:16:9-27:20
 	android:label
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:18:13-45
 	android:theme
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:19:13-56
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.example.alexp.controleleds.MainActivity
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:28:9-38:20
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:28:9-39:20
 	android:label
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:30:13-45
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:30:13-45
 	android:theme
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:31:13-56
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:31:13-56
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:29:13-41
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:29:13-41
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:32:13-34:79
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:32:13-34:79
 	android:value
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:34:17-76
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:34:17-76
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:33:17-63
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:33:17-63
 intent-filter#category:name:android.intent.category.BROWSABLE
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:35:13-37:29
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:36:13-38:29
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:36:17-78
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:37:17-78
 	android:name
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml:36:27-75
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:37:27-75
+activity#com.example.alexp.controleleds.ScrollingActivity
+ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:40:9-43:68
+	android:label
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:42:13-61
+	android:theme
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml:41:13-46
 uses-sdk
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\435dda1643b974e62a945bc56603a2cd\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\435dda1643b974e62a945bc56603a2cd\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\25ffbdadbdd72d707dd53a4308ed552f\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\25ffbdadbdd72d707dd53a4308ed552f\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\16a3b2967f023e1b3e790c0df0152ea4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\16a3b2967f023e1b3e790c0df0152ea4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f709db67beb0aa667644a3aab36f6c70\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f709db67beb0aa667644a3aab36f6c70\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1be08f7033800403aa6b9d0cc4d9b684\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1be08f7033800403aa6b9d0cc4d9b684\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\492469d95f01980f5092a3fe88b06e7d\AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\492469d95f01980f5092a3fe88b06e7d\AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\c40ed1cc38345b648663f0f33c963a8a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\c40ed1cc38345b648663f0f33c963a8a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\88c429df0231756b424dd1442127cee2\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\88c429df0231756b424dd1442127cee2\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\882a5229277e12b04c78e933938b5cbf\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\882a5229277e12b04c78e933938b5cbf\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5820263791efbb7cdd67bb8778f8fcdc\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5820263791efbb7cdd67bb8778f8fcdc\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a3d3caaa9bdd23e590aa033cc6ec1812\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a3d3caaa9bdd23e590aa033cc6ec1812\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d6c2e69dcfa1278b3573649f78ed2a28\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d6c2e69dcfa1278b3573649f78ed2a28\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6894930b51155677e97bb28503785037\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6894930b51155677e97bb28503785037\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2611a11880b76c6b6e4d9298935dc969\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2611a11880b76c6b6e4d9298935dc969\AndroidManifest.xml:21:5-23:58
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c88774a5e65f038570b7581d0a8d401d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c88774a5e65f038570b7581d0a8d401d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\782ec6adf02169a4f4f2416081fc2c6a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\782ec6adf02169a4f4f2416081fc2c6a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e5f53df736dd07e41e0bb075e3039eed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e5f53df736dd07e41e0bb075e3039eed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1e3717abe723dd70f7394011d9505b0a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1e3717abe723dd70f7394011d9505b0a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bf74e1ce88353c690e88f50aa61ba3e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bf74e1ce88353c690e88f50aa61ba3e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\141f1b3a6fa41a74d13f61b36634bca9\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\141f1b3a6fa41a74d13f61b36634bca9\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\720bfa6ed4efcd4e03c2eae0196c15a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\720bfa6ed4efcd4e03c2eae0196c15a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1dfeacae5da76d5f2527151e326fdea2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1dfeacae5da76d5f2527151e326fdea2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\58704a8de5003e5489e113428a7b3c83\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\58704a8de5003e5489e113428a7b3c83\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a116c5faabfb8f8e149d915c7190a4ce\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a116c5faabfb8f8e149d915c7190a4ce\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\913628e89c1982afc8c755e127656edf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\913628e89c1982afc8c755e127656edf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d986e489daff854a53b52a5f04b1ca02\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d986e489daff854a53b52a5f04b1ca02\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b91f643e2c62941dc1c3dfef7e6a6d49\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b91f643e2c62941dc1c3dfef7e6a6d49\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fe1a66da9fdfac05831eac863c6b8123\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fe1a66da9fdfac05831eac863c6b8123\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\435dda1643b974e62a945bc56603a2cd\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c88774a5e65f038570b7581d0a8d401d\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alexp\OneDrive\Documentos\GitHub\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexp\Documents\projetos\ControleLEDs_Android\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\435dda1643b974e62a945bc56603a2cd\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\25ffbdadbdd72d707dd53a4308ed552f\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\25ffbdadbdd72d707dd53a4308ed552f\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\16a3b2967f023e1b3e790c0df0152ea4\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\16a3b2967f023e1b3e790c0df0152ea4\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f709db67beb0aa667644a3aab36f6c70\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f709db67beb0aa667644a3aab36f6c70\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\c40ed1cc38345b648663f0f33c963a8a\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\c40ed1cc38345b648663f0f33c963a8a\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\88c429df0231756b424dd1442127cee2\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\88c429df0231756b424dd1442127cee2\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\882a5229277e12b04c78e933938b5cbf\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\882a5229277e12b04c78e933938b5cbf\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5820263791efbb7cdd67bb8778f8fcdc\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5820263791efbb7cdd67bb8778f8fcdc\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a3d3caaa9bdd23e590aa033cc6ec1812\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a3d3caaa9bdd23e590aa033cc6ec1812\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d6c2e69dcfa1278b3573649f78ed2a28\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d6c2e69dcfa1278b3573649f78ed2a28\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6894930b51155677e97bb28503785037\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6894930b51155677e97bb28503785037\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2611a11880b76c6b6e4d9298935dc969\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2611a11880b76c6b6e4d9298935dc969\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c88774a5e65f038570b7581d0a8d401d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\782ec6adf02169a4f4f2416081fc2c6a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\782ec6adf02169a4f4f2416081fc2c6a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e5f53df736dd07e41e0bb075e3039eed\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e5f53df736dd07e41e0bb075e3039eed\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1e3717abe723dd70f7394011d9505b0a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1e3717abe723dd70f7394011d9505b0a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\720bfa6ed4efcd4e03c2eae0196c15a9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\720bfa6ed4efcd4e03c2eae0196c15a9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1dfeacae5da76d5f2527151e326fdea2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1dfeacae5da76d5f2527151e326fdea2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\58704a8de5003e5489e113428a7b3c83\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\58704a8de5003e5489e113428a7b3c83\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a116c5faabfb8f8e149d915c7190a4ce\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a116c5faabfb8f8e149d915c7190a4ce\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\913628e89c1982afc8c755e127656edf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\913628e89c1982afc8c755e127656edf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d986e489daff854a53b52a5f04b1ca02\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d986e489daff854a53b52a5f04b1ca02\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b91f643e2c62941dc1c3dfef7e6a6d49\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b91f643e2c62941dc1c3dfef7e6a6d49\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fe1a66da9fdfac05831eac863c6b8123\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fe1a66da9fdfac05831eac863c6b8123\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\435dda1643b974e62a945bc56603a2cd\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c88774a5e65f038570b7581d0a8d401d\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\435dda1643b974e62a945bc56603a2cd\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\alexp\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c88774a5e65f038570b7581d0a8d401d\AndroidManifest.xml:26:9-47

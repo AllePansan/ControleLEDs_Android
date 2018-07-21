@@ -23,7 +23,6 @@
         android:allowBackup="true"
         android:debuggable="true"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.alexp.controleleds.SplashScreen"
@@ -49,6 +48,10 @@
                 <category android:name="android.intent.category.BROWSABLE" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.alexp.controleleds.ScrollingActivity"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
